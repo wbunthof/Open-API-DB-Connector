@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Open-API-DB-Connector/appsettings.json
+/Open-API-DB-Connector/appsettings.Development.json
+/.vs/**
+**/bin/**
+**/obj/**

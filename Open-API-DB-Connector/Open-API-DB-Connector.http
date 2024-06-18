@@ -1,0 +1,6 @@
+@Open_API_DB_Connector_HostAddress = http://localhost:5244
+
+GET {{Open_API_DB_Connector_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
